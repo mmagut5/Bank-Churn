@@ -30,5 +30,4 @@ Numerical features were standardized using `StandardScaler`, fitted on the train
 ## Conclusion
 The model successfully identifies key factors influencing customer churn, demonstrating the value of machine learning in customer retention analysis.
 
-## Author
-**Mercy Magut**
+
